@@ -18,11 +18,11 @@
   }
   
   body {
-    margin: 0;
+    margin: 100px;
     background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/c1772259824647.5a309e5d41f01.jpg);
     /*background: radial-gradient(aqua, #9015b6);*/
     background-attachment: fixed;
-    background-size: cover;
+    background-size: center;
   }
   
   .page-title {
